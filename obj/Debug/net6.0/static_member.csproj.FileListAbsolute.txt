@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\static_member\bin\Debug\net6.0\static_member.exe
+D:\cat32tw\Desktop\static_member\bin\Debug\net6.0\static_member.deps.json
+D:\cat32tw\Desktop\static_member\bin\Debug\net6.0\static_member.runtimeconfig.json
+D:\cat32tw\Desktop\static_member\bin\Debug\net6.0\static_member.dll
+D:\cat32tw\Desktop\static_member\bin\Debug\net6.0\ref\static_member.dll
+D:\cat32tw\Desktop\static_member\bin\Debug\net6.0\static_member.pdb
+D:\cat32tw\Desktop\static_member\obj\Debug\net6.0\static_member.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\static_member\obj\Debug\net6.0\static_member.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\static_member\obj\Debug\net6.0\static_member.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\static_member\obj\Debug\net6.0\static_member.AssemblyInfo.cs
+D:\cat32tw\Desktop\static_member\obj\Debug\net6.0\static_member.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\static_member\obj\Debug\net6.0\static_member.dll
+D:\cat32tw\Desktop\static_member\obj\Debug\net6.0\ref\static_member.dll
+D:\cat32tw\Desktop\static_member\obj\Debug\net6.0\static_member.pdb
+D:\cat32tw\Desktop\static_member\obj\Debug\net6.0\static_member.genruntimeconfig.cache
